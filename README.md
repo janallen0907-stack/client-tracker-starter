@@ -1,23 +1,33 @@
 # Client Tracker Starter
 
-A lightweight PHP & MySQL project tracking system for freelancers, developers, students, and small teams.
+A lightweight **PHP + MySQL/MariaDB project tracking system** for freelancers, developers, students, agencies, and small teams.
 
-Client Tracker helps you organize projects, monitor development progress, manage milestones, and provide clients with a clean public project page.
+Client Tracker helps you organize projects, monitor development progress, manage project phases and milestones, publish updates, and provide clients with a clean public-facing project portal.
+
+## Live Demo
+
+Explore the working application:
+
+**https://janclienttracker.great-site.net/**
+
+The demo lets you see the public project dashboard and project progress presentation before purchasing the downloadable package.
 
 ## Features
 
 - Project management dashboard
-- Client/project information
+- Client and project information
 - Development progress tracking
 - Project phases and milestones
 - Development updates
+- Client-facing system notices
 - Public project pages
-- Client-facing notices
 - Search and project filtering
-- Responsive interface
-- PHP + MySQL database
-- Easy local XAMPP installation
-- Customizable starter system
+- Responsive web interface
+- PHP + MySQL/MariaDB database
+- Admin workspace
+- Public/client-facing project portal
+- Customizable project tracker foundation
+- Local XAMPP development support
 
 ## Screenshots
 
@@ -37,61 +47,117 @@ Client Tracker helps you organize projects, monitor development progress, manage
 
 ![Sample Project](screenshots/SampleProject.png)
 
+## What You Can Use It For
+
+Client Tracker Starter can be adapted for:
+
+- Freelance project management
+- Web development projects
+- Software development tracking
+- Student capstone/project tracking
+- Small team project coordination
+- Client progress portals
+- Agency project updates
+- Internal development tracking
+
 ## Technology
 
-- PHP
+- PHP 8.x
 - MySQL / MariaDB
 - HTML5
 - CSS3
 - JavaScript
-- Bootstrap
+- Apache
 - XAMPP
 
-## Who Is It For?
-
-Client Tracker Starter is designed for:
-
-- Freelancers
-- Web developers
-- Students
-- Small development teams
-- Agencies
-- Anyone who needs a simple project tracking system
-
 ## Requirements
+
+To run Client Tracker Starter locally, you should have:
 
 - PHP 8.x
 - MySQL or MariaDB
 - Apache
-- XAMPP or another compatible PHP environment
+- XAMPP or another compatible PHP hosting environment
+- A modern web browser
 
-## Installation
+## Installation Overview
+
+The purchased package includes the complete source code and installation documentation.
+
+Basic installation:
 
 1. Download the Client Tracker Starter package.
 2. Extract the project into your web server directory.
-3. Create the database.
+3. Create a MySQL/MariaDB database.
 4. Import the provided database schema.
 5. Configure the database connection.
 6. Start Apache and MySQL.
 7. Open the application in your browser.
-8. Create your administrator account.
+8. Complete the administrator setup.
 
-Detailed installation instructions are included with the purchased package.
+Detailed installation and configuration instructions are included with the purchased package.
 
-## Important
+## What You Receive
 
-This repository contains product information and demonstration screenshots.
+The paid package includes:
 
-The complete source code and installation package are provided separately to customers after purchase.
+- Complete PHP source code
+- MySQL/MariaDB database schema
+- Admin dashboard
+- Project management functionality
+- Project progress tracking
+- Project phases and milestones
+- Development updates
+- Public project pages
+- Client-facing notices
+- Responsive interface
+- Installation documentation
+- Configuration documentation
+- Product license
+
+The product is delivered as a **digital ZIP download** after a successful purchase.
 
 ## Purchase
 
-Get the complete Client Tracker Starter package from the official product store:
+### Client Tracker Starter — $14.99 USD
 
-**[Purchase Client Tracker Starter](YOUR-CREAM-PRODUCT-LINK)**
+Get the complete downloadable source-code package:
+
+**[Purchase Client Tracker Starter](https://www.creem.io/payment/prod_2tqw8lcVnbfS0vW2hE6sC9)**
+
+The purchase is processed through **Creem**, which handles checkout and digital product delivery.
+
+## Support
+
+For questions regarding:
+
+- Installation
+- Configuration
+- Download access
+- Product usage
+- Licensing
+- Purchase-related issues
+
+Contact:
+
+**janallen0907@gmail.com**
+
+## Important
+
+This public repository contains **product information and demonstration screenshots only**.
+
+The complete application source code is **not publicly distributed through this repository**. The full package is provided separately to customers after purchase.
+
+Do not use this repository as the production application. The downloadable commercial package is the version intended for installation and customization.
 
 ## License
 
-This project is a commercial starter product.
+Client Tracker Starter is a commercial software product.
 
-The license and usage terms are provided with the purchased package.
+The purchased package includes the applicable license and usage terms.
+
+Redistribution, reselling, sublicensing, or publicly repackaging the original commercial package is not permitted unless explicitly authorized by the applicable license.
+
+## About JANDEV
+
+JANDEV creates practical software products, developer tools, templates, and automation solutions for developers, freelancers, students, and small teams.
